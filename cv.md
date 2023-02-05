@@ -1,4 +1,5 @@
-![avotar](C:\Users\Home\Pictures\cat.jpg "аватар")
+
+<img src="https://github.com/Almaz0n/Progects/blob/avotar/cat.jpg"  width="200" width="200">
 
 # Nuriev Almaz
 
@@ -55,5 +56,11 @@ I am 40 years old, single, I have a driver's license, I study English, I am fond
 ## Education
 Secondary special education, Pedagogical
     
-## English
-A1 (I am learning English)
+## Languages
+* Russian - I am fluent
+* English - A1 (B2 in process…)
+* Tatar - native speaker
+* Bashkir - I am fluent
+
+## Self-education (study project) (HTML, CSS, BOOTSTRAP)
++ [githab](https://github.com/Almaz0n/Progects/tree/Projects-html "Описание")
